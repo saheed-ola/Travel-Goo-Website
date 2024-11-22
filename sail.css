@@ -7,10 +7,8 @@ body{
 .bg{
     background-image: url(assets/stefan.png);
     height:1050px;
-    /* overflow-y:hidden; */
 }
 .navbar{
-    /* border: 1px solid; */
     height: 70px;
     width: 80vw;
     margin: auto;
@@ -23,8 +21,6 @@ body{
     width: 76px;
     height: 60px;
     color: white;
-    /* border: 1px solid; */
-   /* background-color: red; */
 }
 .let p{
     font-family: Laila;
@@ -32,8 +28,6 @@ body{
     font-weight: 700;
     line-height: 24.6px;
     text-align: center;
-
-
 }
 .let span{
     font-family: Laila;
@@ -49,12 +43,10 @@ body{
     font-weight: 700;
     line-height: 32.8px;
     text-align: center;
-    /* text-underline-position: from-font; */
 }
 
 .middle{
     width: 320px;
-    /* border: 1px solid; */
     height: 30px;
     display: flex;
     justify-content: space-between;
@@ -63,7 +55,6 @@ body{
 }
 .rit{
     width: 60px;
-    /* border: 1px solid; */
     height: 40px;
     display: flex;
     gap: 20px;
@@ -74,7 +65,6 @@ body{
     align-items: center;
     width: 779px;
     height: 204px;
-    /* border: 1px solid; */
     margin: auto;
     margin-top: 10rem;
  
@@ -84,9 +74,7 @@ body{
     font-family: Open Sans;
     font-size: 75px;
     font-weight: 800;
-    /* line-height: 102.14px; */
     text-align: center;
-    /* text-underline-position: from-font; */
 }
 .bg h3{
     color: white;
@@ -158,12 +146,10 @@ body{
 }
 .card h2{
     width: 177px;
-    /* height: 33px; */
     font-family: Open Sans;
     font-size: 24px;
     font-weight: 700;
     line-height: 32.68px;
-    /* text-align: center; */
 }
 .card :nth-child(3){
     width: 328px;
@@ -182,12 +168,9 @@ body{
     justify-content: center;
 }
 .bg-2{
-
     width: 1184px;
     height: 622px;
     margin: auto;
-    /* margin-top: 30px; */
-    /* border: 1px solid; */
 }
 .bg-2 h1{
     width: 518px;
@@ -213,7 +196,6 @@ body{
 }
 .card-2{
     width: 90vw;
-    /* border: 1px solid; */
     height: 200px;
     margin-top: -500px;
     display: flex;
@@ -237,7 +219,6 @@ body{
 .kad :nth-child(2){
     margin-left: 25px;
     width: 102px;
-    /* height: 60px; */
     font-family: Open Sans;
     font-size: 25px;
     font-weight: 700;
@@ -270,7 +251,6 @@ body{
 .map{
     width: 90vw;
     height: 772px;
-    /* border: 1px solid; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -288,7 +268,6 @@ body{
     align-items:start;
     width: 659px;
     height: 772px;
-    /* border-radius: 15px; */
 }
 .slide{
     width: 600px;
@@ -318,7 +297,6 @@ body{
     justify-content: space-between;
     width: 50%;
     margin: auto;
-    /* border: 1px solid; */
 }
 .pack-page{
     width: 100vw;
@@ -340,7 +318,6 @@ body{
 .clicks{
     width: 80vw;
     height: 60px;
-    /* border: 1px solid; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -362,7 +339,6 @@ body{
 .pack-card{
     width: 80vw;
     height: 500px;
-    /* border: 1px solid; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -373,9 +349,6 @@ body{
     width: 350px;
     height: 489px;
     border-radius: 10px;
-    /* background: white; */
-    /* overflow-x: hidden; */
-    /* overflow-y: hidden; */
     display: grid;
     justify-content: space-between;
     align-items: end;
@@ -383,22 +356,18 @@ body{
 
 }
 .best-card img{
-    /* position: absolute; */
     height: 100%;
     width: 100%;
-    /* z-index: -1px; */
 }
 .down{
     width: 100%; 
     background: white;
     height: 150px;
-    /* margin-top: 350px; */
     padding-bottom: 10px;
     position: absolute;
     bottom: 0;
     display: grid;
     border-radius: 0 0 10px 10px;
-    /* padding: 10px; */
 }
 .gp1{
     display: flex;
@@ -407,15 +376,11 @@ body{
     padding: 10px;
 }
 .story span{
-    /* padding: 10px; */
     font-family: Open Sans;
     font-size: 18px;
     font-weight: 500;
-    /* line-height: 21.79px; */
     text-align: center;
     margin-left: 10px;
-
-
 }
 .base{
     display: flex;
@@ -467,10 +432,8 @@ body{
 .book-slide{
     width: 70vw;
     height: 466.94px;
-    /* border: 1px solid; */
     margin: auto;
     display: flex;
-    /* align-items: center; */
 }
 
 .yellow{
@@ -506,12 +469,8 @@ body{
     background: #006380;
 
 }
-
 .txt{
     display: grid;
-    /* border: 1px solid red; */
-    /* width: 200px; */
-    /* height: 100px; */
     color: black;
     margin-left: 20px;
  
@@ -524,7 +483,6 @@ body{
     font-family: Open Sans;
     font-size: 16px;
     font-weight: 700;
-    /* line-height: 19.92px; */
 }
 .txt .pan{
     width: 350.66px;
@@ -540,8 +498,6 @@ body{
     height: 400px;
     border-radius: 10px;
     background: white;
-    /* border: 1px solid; */
-    /* padding-left: 10px; */
     position: relative;
     box-shadow: 5px 5px rgb(245, 245, 252);
 }
@@ -566,9 +522,7 @@ body{
 .flex{
     width: 263px;
     height: 129px;
-    /* border: 1px solid; */
     border-radius: 20px;
-    /* color: white; */
     position: absolute;
     right: -100px;
     top: 230px;
@@ -579,14 +533,12 @@ body{
 }
 .gather{
     display: grid;
-    /* align-items: start; */
 }
 
 .line{
     width: 156px;
     height: 5px;
     border-radius: 30px;
-    /* border: 1px solid; */
     display: flex;
     margin-left: 20px;
 }
@@ -601,7 +553,6 @@ body{
     background: #F5F5F5;
 }
 .peeps{
-    /* margin-top: 100px; */
     width: 100vw;
     height: 830px;
     background: #ECF1F0;
@@ -643,7 +594,6 @@ body{
     font-weight: 400;
     line-height: 30px;
     text-align: center;
-
 }
 .kot span{
     margin: auto;
@@ -702,10 +652,8 @@ body{
 }
 .put{
     width: 450px;
-    /* height: 68px; */
     border-radius: 10px;
-    background: #FFFFFF;
-   
+    background: #FFFFFF; 
     border: none;
     display: flex;
     justify-content: center;
@@ -717,7 +665,6 @@ body{
     height: 68px;
     border-radius: 10px;
     background: #FFFFFF;
-    /* text-align: center; */
     border: none; 
 }
 .ipt button {
@@ -733,12 +680,10 @@ body{
     right: -90px;
     bottom: -70px;
 }
-
 main-footer{
     display: flex;
     width: 90vw;
     height: 215px;
-    /* border: 1px solid; */
     margin: auto;
     margin-top: 100px;
     justify-content: space-between;
@@ -779,7 +724,6 @@ main-footer{
     align-items: start;
     column-gap:120px ;
 }
-
  .line1{
     display: grid;
     grid-row-gap:15px ;
@@ -791,8 +735,6 @@ main-footer{
     font-weight: 700;
     line-height: 26.15px;
     text-align: left;
-
-
 }
 .line1 a{
     text-decoration: none;
@@ -802,16 +744,11 @@ main-footer{
     font-weight: 400;
     line-height: 22.41px;
     text-align: left;
-
-
 }
 .foot3{
     width: 300px;
-    /* height: 67.47px; */
-    /* border: 1px solid; */
     height: 215px;
 }
-
 .foot3 h1{
     width: 243px;
     height: 35px;
@@ -840,18 +777,14 @@ section h6{
         background-size: cover;
         height:100vh;
         width: 100vw;
-        /* overflow-y:hidden; */
     }
     .navbar{
         display: none;
-        /* border: 1px solid;  */
          height: 70px;
         width: 80vw;
         margin: auto;
         display: flex;
         justify-content: space-between;
-        /* align-items: center; */
-       
     }
     .middle {
         display: none;
@@ -868,56 +801,45 @@ section h6{
         font-size: 18px;
         font-weight: 700;
         line-height: 24.6px;
-        /* text-align: center; */
     }
     .let span{
         font-size: 25px;
         font-weight: 700;
     }
     .imgn{
-        /* display: block; */
         justify-content: center;
         align-items: center;
         width: 300px;
         height: 150px;
-        /* border: 1px solid red; */
         margin: auto;
         margin-top: 50px;
     }
     .imgn h1{
         color: white;
-        font-family: Open Sans;
         font-size: 30px;
         font-weight: 800;
-        /* line-height: 102.14px; */
         text-align: center;
-        /* text-underline-position: from-font; */
         margin: auto;
     }
     .bg h3{
         width: 350px;
         height: 60px;
-        /* border: 1px solid; */
         margin-top: 50px;
-        /* font-size: 16px; */
         font-weight: 400;
         
     }
     .bg button{
         margin: auto;
         margin-top: 60px;
-        /* width: 214px; */
         height: 60px;
         margin-left: 85px;
     }
     .service-card{
         display: flex;
         flex-direction: column;
-        /* justify-content: space-around; */
         gap: 30px;
         align-items: center;
         margin: 0, 20px, 50px, 20px;
-        /* padding-left: 0px; */
     }
     .card{
         width: 330px;
@@ -944,11 +866,11 @@ section h6{
         height: fit-content;
     }
     .card-2{
-    width: 95vw;
-    display: grid;
-    grid-template-columns: auto auto;
-    gap: 20px;
-    padding: 0 30px;
+        width: 95vw;
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 20px;
+        padding: 0 30px;
     }
     .kad{
         width: 150px;
@@ -966,11 +888,8 @@ section h6{
         flex-direction: column;
         row-gap: 30px;
         width: 100vw;
-        height: fit-content;
-        /* margin: auto; */
+        height: fit-content
     } 
-
-
     .slide{
         width: 350px;
         height: 200px;
@@ -996,7 +915,6 @@ section h6{
     }
     .pack{
         justify-content: space-between;
-        /* column-gap: 20px; */
     }
     .pack .country{
         font-size: 15px;
@@ -1004,12 +922,11 @@ section h6{
     }
     .pack-page{
         margin-top: 700px;
-       height: fit-content;
+        height: fit-content;
     }
     .pack-page h1{
         width: 300px;
         height: fit-content;
-        border: 1px solid;
         font-size: 40px;
         font-weight: 700;
         line-height: 40.47px;
@@ -1023,7 +940,6 @@ section h6{
     .pack-card{
         width: 80vw;
         height: 500px;
-        /* border: 1px solid; */
         display: grid;
         row-gap: 30px;
         justify-content: center;
@@ -1034,7 +950,6 @@ section h6{
     
     .down{
         height: fit-content;
-        /* padding: 20px; */
         border-radius: 0 0 12px 12px;
     }
    
@@ -1052,13 +967,9 @@ section h6{
         align-items: center;
         margin-top: 1100px;
     }
-    .book-section{
-        /* padding-top: -50px; */
-    }
     .book-section .top{
         width: 350px;
         height: fit-content;
-        border: 1px solid;
         margin: auto;
         margin-bottom: 150px;
     }
@@ -1077,7 +988,6 @@ section h6{
         margin-top: -70px;
     }
     .left{
-        border: 1px solid;
         height: 500px;
         width: 350px;
         margin-left: -40px;
@@ -1106,17 +1016,80 @@ section h6{
         margin-left: 0px;
         overflow-x: hidden;
         margin: auto;
-    
+        background: cover;
     }
     .kot{
         width: 300px;
         height: fit-content;
-        left: 0px;
+        left: 25px;
+        bottom: -50px;
     }
-
     .kot p{
         width: 250px;
         font-size: 15px;
+        margin-top: 0;
+    }
+    .sub-footer{
+        width: 95vw;
+        border-radius: 15px 5px 5px 5px;
+    }
+    .round{
+        width: 50px;
+        height: 50px;
+        right: 10px;
+    }
+
+    .sub{
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 30px;
+        text-align: center;
+        width: 300px;
+        height: fit-content;
+        margin: auto;
+        padding-top: 50px;
+    }
+    .ipt{
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
+        row-gap: 20px;
+    }
+    .put{
+        width: 350px;
+    }
+    main-footer{
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        margin-top: 50px;
+        align-items: center;
+        height: fit-content;
+    }
+    .foot1 h6{
+        margin-top: 0;
+    }
+    #last{
+        margin: auto;
+        margin: 50px 100px;
+      
+    }
+    .foot2{
+        width: 250px;
+        column-gap: 30px;
+        margin: auto;
+        justify-content: center;
+        height: fit-content;
         
+        /* display: grid;
+        grid-template-columns: auto auto;
+        gap: -10px;
+        margin-bottom: 50px; */
+    }
+    .foot3{
+        margin-top:40px;
+    }
+    .foot3 h1{
+        margin-left: auto;
     }
 }
